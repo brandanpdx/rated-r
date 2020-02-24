@@ -1,0 +1,11 @@
+/Users/brandansayarath/Desktop/rated-r/obj/Debug/netcoreapp2.2/RatedR.csprojAssemblyReference.cache
+/Users/brandansayarath/Desktop/rated-r/obj/Debug/netcoreapp2.2/RatedR.csproj.CoreCompileInputs.cache
+/Users/brandansayarath/Desktop/rated-r/obj/Debug/netcoreapp2.2/RatedR.AssemblyInfoInputs.cache
+/Users/brandansayarath/Desktop/rated-r/obj/Debug/netcoreapp2.2/RatedR.AssemblyInfo.cs
+/Users/brandansayarath/Desktop/rated-r/bin/Debug/netcoreapp2.2/RatedR.deps.json
+/Users/brandansayarath/Desktop/rated-r/bin/Debug/netcoreapp2.2/RatedR.runtimeconfig.json
+/Users/brandansayarath/Desktop/rated-r/bin/Debug/netcoreapp2.2/RatedR.runtimeconfig.dev.json
+/Users/brandansayarath/Desktop/rated-r/bin/Debug/netcoreapp2.2/RatedR.dll
+/Users/brandansayarath/Desktop/rated-r/bin/Debug/netcoreapp2.2/RatedR.pdb
+/Users/brandansayarath/Desktop/rated-r/obj/Debug/netcoreapp2.2/RatedR.dll
+/Users/brandansayarath/Desktop/rated-r/obj/Debug/netcoreapp2.2/RatedR.pdb
